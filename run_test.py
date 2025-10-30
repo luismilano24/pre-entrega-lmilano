@@ -3,7 +3,8 @@ import pytest
 # Lista de archivos a prueba a ejecutar
 test_files = [
     "test/test_inventario.py",
-    "test/test_login.py"
+    "test/test_login.py",
+    "test/car"
 ]
 
 # argunmentos para ejecutar las pruebas archivos + reportes html
