@@ -1,0 +1,7 @@
+[
+  "test_car.py::test_cart",
+  "test_inventario.py::test_inventario",
+  "test_inventario.py::test_inventory",
+  "test_login.py::test_login_validation",
+  "test_login2.py::test_login"
+]

@@ -1,0 +1,6 @@
+[
+  "test/test_inventario.py::test_inventory",
+  "test/test_login.py::test_login_validation",
+  "test_inventario.py::test_inventory",
+  "test_login.py::test_login"
+]

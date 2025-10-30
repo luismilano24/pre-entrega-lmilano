@@ -1,0 +1,5 @@
+{
+  "test_login.py": true,
+  "test_inventario.py::test_inventory": true,
+  "test/test_inventario.py::test_inventory": true
+}
